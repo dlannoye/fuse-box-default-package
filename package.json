@@ -1,0 +1,10 @@
+{
+  "name": "fuse-box-default-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fuse-box": "^3.2.2",
+    "typescript": "^2.9.1"
+  }
+}
