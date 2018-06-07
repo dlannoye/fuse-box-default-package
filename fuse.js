@@ -4,7 +4,7 @@ const fuse = FuseBox.init({
     target : 'browser@es6',
     output : "dist/$name.js",
     package: {
-        name: "SomeProject",
+        name: "@my-scope/someProject",
         main: "index.ts"
     },
     plugins : [
